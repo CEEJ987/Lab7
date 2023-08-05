@@ -7,22 +7,7 @@
 ## Introduction
 The Zoo project is a console application that simulates a zoo with different types of animals. Each animal has specific behaviors and characteristics. The project utilizes object-oriented programming principles to model the zoo and its inhabitants.
 
-## UML Diagram
-Below is the digital UML diagram representing the structure of the Zoo project:
 
-
-[Animal]
-    |
-  .-^-.
- /_/_\_\________
- |  _  |______  |
- |[_] |[#][_]| |
- | |_| |______| |
- |  _  |-=-=-=| |
- | [_] | [] []| |
- '-----'------'-' 
-
-## Technical Documentation
 ### Object-Oriented Programming Principles
 
 Abstraction: Abstraction is the process of hiding unnecessary details and exposing only relevant information. In the Zoo project, abstraction is achieved through abstract classes such as Animal, Mammal, Reptile, and Bird. These abstract classes define common properties and methods that are shared among their derived classes.
