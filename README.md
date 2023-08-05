@@ -1,7 +1,7 @@
 # Interfaces-lab7
 
 
-## Zoo Project Lab 6-A
+## Zoo Project 
 
 
 ## Introduction
